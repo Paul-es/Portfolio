@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Paul Elias Sojan",
+    "occupation": "Student",
+    "image": "profilepic.jpg",
+    "bio": " BTech Computer Science and Engineering student who can work under pressure, can keep up with fast paced deadlines, also has skill in managing a team and experience in organising events.",
+    "email": "paul.eliassojan@gmail.com",
+    "phone": "8281895254",
+    "address": {
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "zip": "689645"
+    },
+    "resumedownload": "https://drive.google.com/drive/folders/17iUuMnlmSWNOiQAXTv4i6lroh3Hf7Ab5?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/paul-elias-sojan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/paul.es_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://gitlab.com/paul.eliassojan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Federal Institute Of Science And Technology",
+        "degree": "Computer Science And Engineering",
+        "graduated": "2022",
+        "description": "CGP: 7.9"
+      },
+      {
+        "school": "Seventh Day Adventist Higher Secondary School",
+        "degree": "ISC",
+        "graduated": "2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Konverge.ai",
+        "title": "Data Science Intern",
+        "years": "April 2021 - Present"
+      },
+      {
+        "company": "Vruksh Ecosystem Foundation",
+        "title": "Software Engineer Intern",
+        "years": "July 2020 - March 2021",
+        "description": "Worked on a project called Ekatra, it is the first low data / no data learning platform. The system allows you to provide lessons over multiple channels - SMS, WhatsApp, Email, Video & Text from a single dashboard with just 1-click!"
+      },
+      {
+        "company": "Centre For Cyber Innovations",
+        "title": "Developer ",
+        "years": "Nov 2018 - Present",
+        "description": "I'm a client-side developer and have experience in building various Webapps, Native apps. And also a core team member."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "78%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "70%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "70%"
+      },
+      {
+        "name": "ElectronJS",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Flask",
+        "level": "60%"
+      },
+      {
+        "name": "Linux Commands",
+        "level": "80%"
+      }
+    ]
+  }
+}
